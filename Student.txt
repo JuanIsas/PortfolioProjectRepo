@@ -1,0 +1,16 @@
+Name: Charlie
+Address: 9876 Santa Ana, Santa Ana 9876
+GPA: 4.0--- 
+
+Name: Diana
+Address: 4532 Garden Grove, Garden Grove, 4532
+GPA: 3.9--- 
+
+Name: Juan
+Address: 12345 Pomona, Pomona, 12345
+GPA: 4.0--- 
+
+Name: Zane
+Address: 3456 Fullerton, Fullerton 3456
+GPA: 3.2--- 
+
